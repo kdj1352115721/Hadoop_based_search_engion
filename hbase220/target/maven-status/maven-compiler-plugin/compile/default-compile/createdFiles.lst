@@ -1,0 +1,8 @@
+com\briup\mr\RowCount$RCMapper.class
+com\briup\mr\RowCount$RCReducer.class
+com\briup\hbase\HbaseTest1.class
+com\briup\mr\ASCLL.class
+com\briup\mr\SameName$SReducer.class
+com\briup\mr\SameName$SMapper.class
+com\briup\mr\RowCount.class
+com\briup\mr\SameName.class

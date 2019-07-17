@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rowcount">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rowcount</output-path>
+    <root id="archive" name="Rowcount.jar">
+      <element id="directory" name="com" />
+    </root>
+  </artifact>
+</component>
